@@ -34,5 +34,4 @@ El sistema permite lo siguiente:
 Para comenzar, clona el repositorio a tu máquina local:
 
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/BManrriqueCastro/Taller_ApiRest-.git
